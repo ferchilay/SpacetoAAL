@@ -16,5 +16,6 @@ public class EjercicioparaRepositorioGithub {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hola fercha");
+        System.out.println("hola Majo!!! :)");
     }
 }
